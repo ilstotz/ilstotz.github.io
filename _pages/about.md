@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 <div style="text-align: justify;">
 
-<p>Currently I am a Postdoctoral Researcher in Geodynamics at LMU in Munich since March 2020. Prior to this, I completed a PhD in Geophysics at the University of Copenhagen in Denmark. But my scientific career began at the
+<p>I am a Postdoctoral Researcher in Geodynamics at LMU in Munich since March 2020. Prior to this, I completed a PhD in Geophysics at the University of Copenhagen in Denmark. But my scientific career began at the
 Universidad de Concepción in Chile, where I studied Geophysics as an undergraduate.<p>
 
 <p>My research interests are on Earth dynamics through the use of advanced numerical simulations in high performance computing, elegantly simple analytical models, and a deliberately focus on observational constraints from geology and geophysics. My work shows that accurately interpreting regional events requires global-scale modeling. <p>
