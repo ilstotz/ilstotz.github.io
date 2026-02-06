@@ -4,3 +4,12 @@ assets/css/main.scss
 assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
+
+# publications page
+_pages/publications.md
+
+# bibtex files
+_bibliography/*.bib
+
+# or entire bibliography folder
+_bibliography/
